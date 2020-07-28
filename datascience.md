@@ -1,5 +1,6 @@
 
-
+# Setup
+https://rjai.me/posts/google-colab-conda/
 
 
 # Visualising High Dimention Datasets
