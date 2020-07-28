@@ -9,3 +9,6 @@ https://medium.com/rapids-ai/tsne-with-gpus-hours-to-seconds-9d9c17c941db
 
 # Dataset
 https://github.com/googlecreativelab/quickdraw-dataset
+
+# CNN
+https://towardsdatascience.com/illustrated-10-cnn-architectures-95d78ace614d
