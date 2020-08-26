@@ -12,3 +12,6 @@ https://github.com/googlecreativelab/quickdraw-dataset
 
 # CNN
 https://towardsdatascience.com/illustrated-10-cnn-architectures-95d78ace614d
+
+# ARXIV
+https://arxiv.org/pdf/1406.2661.pdf
